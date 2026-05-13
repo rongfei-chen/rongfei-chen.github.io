@@ -38,7 +38,7 @@ To date, I have published 4 papers <a href='https://scholar.google.com/citations
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/ESWA2026.png' alt="ESWA2026" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='images/500x300.png' alt="ESWA2026" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Understanding Domain-Specific Attribute Constraints in Multimodal Sentiment Analysis via Ensemble Multimodal Large Language Models with Structured Multistage Prompts](https://www.sciencedirect.com/science/article/pii/S095741742601571X)
