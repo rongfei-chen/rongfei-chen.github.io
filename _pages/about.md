@@ -24,7 +24,7 @@ My research lies at the intersection of multimodal affective computing and embod
 Multimodal psychological health assessment: developing multimodal frameworks for the early detection and assessment of affective disorders (e.g., depression) through the analysis of verbal and nonverbal behavioral signals;
 Embodied navigation in social environments: integrating visual, auditory, and environmental semantic information to equip intelligent agents with socially aware navigation capabilities in human-centered scenarios;
 Natural human–computer interaction: designing adaptive human behavior understanding and response systems with capabilities for proactive perception, empathetic interaction, and contextual adaptation.
-To date, I have published 4 papers <a href='https://scholar.google.com/citations?user=44dSBKUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) at top-tier AI conferences and journals (e.g., ICME, TCSVT, KBS, and ESWA).
+To date, I have published 4 papers (<a href='https://scholar.google.com/citations?user=44dSBKUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) at top-tier AI conferences and journals (e.g., ICME, TCSVT, KBS, and ESWA).
 
 
 
