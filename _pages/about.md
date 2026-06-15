@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a joint postdoctoral researcher at the University of Science and Technology of China (USTC) and Eastern Institute of Technology (EIT), working under the supervision of Professor Shaohua Kevin Zhou and Assistant Professor Wei Zhang.
 
-My research lies at the intersection of multimodal affective computing and embodied perception, with a primary focus on enabling intelligent agents to understand and interact effectively in complex social environments. My current research interests include:
+My research investigates how embodied agents can understand human emotions and social intentions, and accordingly make socially appropriate and trustworthy decisions in interaction and collaboration. My current research interests include:
 
 Multimodal psychological health assessment: developing multimodal frameworks for the early detection and assessment of affective disorders (e.g., depression) through the analysis of verbal and nonverbal behavioral signals;
 Embodied navigation in social environments: integrating visual, auditory, and environmental semantic information to equip intelligent agents with socially aware navigation capabilities in human-centered scenarios;
