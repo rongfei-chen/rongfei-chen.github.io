@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?authuser=1&user=44dSBKUAAAAJ"
   email            : "RongfeiChen@outlook.com"
-  researchgate     : "https://www.researchgate.net/profile/Rongfei-Chen-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
+  researchgate     : "https://www.researchgate.net/profile/Rongfei-Chen-2"
   uri              : "https://rongfei-chen.github.io/"
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/rongfei-chen"
+  github           : "rongfei-chen"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,8 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  openreview       : "https://openreview.net/profile?id=~Rongfei_Chen1"
+  orcid            : "https://orcid.org/0000-0002-7664-2638"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

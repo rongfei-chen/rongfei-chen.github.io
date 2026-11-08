@@ -1,0 +1,234 @@
+{
+  "checked": "2026-11-08",
+  "identity": {
+    "name": "Rongfei Chen",
+    "google_scholar_id": "44dSBKUAAAAJ",
+    "orcid": "0000-0002-7664-2638"
+  },
+  "count_semantics": "16 Google Scholar entries grouped into 15 works after the author confirmed that the two LLaSO titles are versions of the same work.",
+  "sources": [
+    "https://scholar.google.com/citations?user=44dSBKUAAAAJ&hl=zh-CN",
+    "https://pub.orcid.org/v3.0/0000-0002-7664-2638/record",
+    "https://github.com/rongfei-chen/rongfei-chen.github.io/blob/google-scholar-stats/gs_data.json"
+  ],
+  "changes": [
+    "Complete source-backed entries",
+    "Separate preprints/manuscript",
+    "Remove unsupported total of four papers",
+    "Replace wrong acceptance-news dates with linked research updates",
+    "Fix GitHub URL prefix and add ORCID"
+  ],
+  "items": [
+    {
+      "title": "Evaluation Before Generation: A Paradigm for Robust Multimodal Sentiment Analysis with Missing Modalities",
+      "authors": "R Chen, T Zhang, X Shen, W Zhang",
+      "venue": "IEEE International Conference on Multimedia and Expo (ICME), 2026 — accepted.",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:ufrVoPGSRksC",
+      "category": "accepted",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:ufrVoPGSRksC",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://arxiv.org/abs/2604.05558",
+      "code_url": "https://github.com/rongfei-chen/ProMMA",
+      "status_source": "Formal acceptance confirmed by the author on 2026-11-08; no proceedings DOI or pages are asserted."
+    },
+    {
+      "title": "Beyond visibility limits: A DRL-based navigation strategy for unexpected obstacles",
+      "authors": "M Tan, S Wang, B Huang, Z Yang, R Chen, X Shen, G Xu, W Zhang",
+      "venue": "Unmanned Systems, 1-13 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:YsMSGLbcyi4C",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:YsMSGLbcyi4C",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://doi.org/10.1142/S2301385027500579",
+      "doi": "10.1142/S2301385027500579"
+    },
+    {
+      "title": "Understanding domain-specific attribute constraints in multimodal sentiment analysis via ensemble multimodal large language models with structured multistage prompts",
+      "authors": "R Chen, J Tong, X Zhang, T Zhang, X Shen, W Zhang",
+      "venue": "Expert Systems with Applications, 132658 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:_FxGoFyzp5QC",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:_FxGoFyzp5QC",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://doi.org/10.1016/j.eswa.2026.132658",
+      "doi": "10.1016/j.eswa.2026.132658",
+      "code_url": "https://github.com/rongfei-chen/DSAC-EmoLLM-MSA"
+    },
+    {
+      "title": "Adaptive Wiener process modeling integrating physical causality and degradation states for high-reliability systems",
+      "authors": "T Zhang, Z Gao, R Chen, L Liu",
+      "venue": "Reliability Engineering & System Safety, 112291 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:Tyk-4Ss8FVUC",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:Tyk-4Ss8FVUC",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:Tyk-4Ss8FVUC"
+    },
+    {
+      "title": "Missing-Modality-Aware Multimodal Sentiment Analysis via Mutual Information Assessment and Prompted Pre-trained Models",
+      "authors": "R Chen, T Zhang, X Zhang, S Cheng, Z Li, W Zhang",
+      "venue": "International Conference on Intelligent Computing, 363-376 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:LkGwnXOMwfcC",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:LkGwnXOMwfcC",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://doi.org/10.1007/978-981-92-3447-9_30",
+      "doi": "10.1007/978-981-92-3447-9_30",
+      "code_url": "https://github.com/rongfei-chen/MSA_with_Missing_Modality_ICIC_2026",
+      "year_source": "2026 confirmed by the author on 2026-11-08; raw ORCID record listed 2027."
+    },
+    {
+      "title": "LGCDF: Label-Guided Contrastive Disentanglement Fusion of Sensitive Attribute-Free Representations for Fair Multimodal Sentiment Analysis",
+      "authors": "R Chen, X Zhang, S Cheng, T Zhang, H Zhang, W Zhang",
+      "venue": "Applied Sciences 16 (6), 2952 , 2026",
+      "year": "2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:Y0pCki6q_DkC",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:Y0pCki6q_DkC",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://doi.org/10.3390/app16062952",
+      "doi": "10.3390/app16062952",
+      "code_url": "https://github.com/rongfei-chen/LGCDF"
+    },
+    {
+      "title": "Llaso: A foundational framework for reproducible research in large language and speech model",
+      "authors": "Y Sun, Y Geng, P Wei, Y Chen, J Yang, R Chen, W Zhang, X Shen",
+      "venue": "arXiv preprint arXiv:2508.15418 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:W7OEmFMy1HYC",
+      "category": "preprint",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:W7OEmFMy1HYC",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://arxiv.org/abs/2508.15418",
+      "alternate_title": "LLaSO: A Reproducible Foundation for Large Speech-Language Models",
+      "alternate_scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:WF5omc3nYNoC",
+      "version_relationship_source": "Same work, different versions; confirmed by the author on 2026-11-08."
+    },
+    {
+      "title": "TD3R: Stabilizing the Offline-to-Online Reinforcement Learning by Restricting Policy Updates",
+      "authors": "B Huang, X Wang, X Zhang, R Chen, S Wang, M Tan, W Zhang",
+      "venue": "2025 44th Chinese Control Conference (CCC), 6833-6838 , 2025",
+      "year": "2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:IjCSPb-OGe4C",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:IjCSPb-OGe4C",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+      "title": "Disentangled variational auto-encoder for multimodal fusion performance analysis in multimodal sentiment analysis",
+      "authors": "R Chen, W Zhou, H Hu, Z Fei, M Fei, H Zhou",
+      "venue": "Knowledge-Based Systems 301, 112372 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:UeHWp8X0CEIC",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:UeHWp8X0CEIC",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://doi.org/10.1016/j.knosys.2024.112372",
+      "doi": "10.1016/j.knosys.2024.112372"
+    },
+    {
+      "title": "High-Resolution 3D Reconstruction Based on Prior Knowledge with Binocular Structured Light",
+      "authors": "D Luo, W Zhou, W Liang, M Jin, X Ren, R Chen, X Han",
+      "venue": "International Conference on Life System Modeling and Simulation, 282-293 , 2024",
+      "year": "2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:eQOLeE2rZwMC",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:eQOLeE2rZwMC",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:eQOLeE2rZwMC"
+    },
+    {
+      "title": "Video-based cross-modal auxiliary network for multimodal sentiment analysis",
+      "authors": "R Chen, W Zhou, Y Li, H Zhou",
+      "venue": "IEEE Transactions on Circuits and Systems for Video Technology 32 (12), 8703 … , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:9yKSN-GCB0IC",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:9yKSN-GCB0IC",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://doi.org/10.1109/TCSVT.2022.3197420",
+      "doi": "10.1109/TCSVT.2022.3197420",
+      "code_url": "https://github.com/rongfei-chen/VCAN"
+    },
+    {
+      "title": "Embryo evaluation based on ResNet with adaptiveGA-optimized hyperparameters",
+      "authors": "W Zhou, X Han, Y Xu, R Chen, Z Zhang",
+      "venue": "Journal of Internet Technology 23 (3), 527-538 , 2022",
+      "year": "2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:qjMakFHDy7sC",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:qjMakFHDy7sC",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://doi.org/10.53106/160792642022052303011",
+      "doi": "10.53106/160792642022052303011"
+    },
+    {
+      "title": "Endoscopic single image super-resolution based on transformer and convolutional neural network",
+      "authors": "X Gu, F Zhou, R Chen, X Ren, W Zhou",
+      "venue": "International Conference on Life System Modeling and Simulation, 24-32 , 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:2osOgNQ5qMEC",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:2osOgNQ5qMEC",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://doi.org/10.1007/978-981-16-7207-1_3",
+      "doi": "10.1007/978-981-16-7207-1_3"
+    },
+    {
+      "title": "LSTM-based visibility detection for airport images in time series",
+      "authors": "X Han, T Zhou, Y He, Y Chen, R Chen, W Zhou",
+      "venue": "2021 40th Chinese Control Conference (CCC), 7241-7246 , 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:d1gkVwhDpl0C",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:d1gkVwhDpl0C",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://doi.org/10.23919/ccc52363.2021.9550626",
+      "doi": "10.23919/ccc52363.2021.9550626"
+    },
+    {
+      "title": "A Decomposed Projective Method based on FBT-VMD and t-ELM for Facial Emotion Recognition",
+      "authors": "R Chen, Z Fei, W Zhou, X Han, H Teng",
+      "venue": "2021 40th Chinese Control Conference (CCC), 7294-7299 , 2021",
+      "year": "2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:u-x6o8ySG0sC",
+      "category": "publication",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&oe=GB&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:u-x6o8ySG0sC",
+      "source_checked": "2026-11-08",
+      "primary_url": "https://doi.org/10.23919/ccc52363.2021.9549285",
+      "doi": "10.23919/ccc52363.2021.9549285"
+    }
+  ],
+  "source_entry_count": 16,
+  "grouped_work_count": 15,
+  "author_confirmations": {
+    "date": "2026-11-08",
+    "source": "Direct confirmation by the author in the PIAC update request",
+    "Evaluation Before Generation": "Formally accepted at ICME 2026",
+    "LLaSO": "The two titles refer to the same work, different versions",
+    "Missing-Modality-Aware": "Conference/publication year is 2026"
+  },
+  "previous_source_discrepancies": [
+    {
+      "title": "Evaluation Before Generation: A Paradigm for Robust Multimodal Sentiment Analysis with Missing Modalities",
+      "issue": "Existing homepage says ICME 2026; live Google Scholar lists an arXiv preprint. Draft uses preprint status, without inferring acceptance."
+    },
+    {
+      "title": "Missing-Modality-Aware Multimodal Sentiment Analysis via Mutual Information Assessment and Prompted Pre-trained Models",
+      "issue": "Year differs across sources",
+      "scholar": "2026",
+      "orcid": "2027"
+    },
+    {
+      "title": "LLaSO: A Reproducible Foundation for Large Speech-Language Models",
+      "issue": "Potentially related LLaSO version; year/venue not supplied. No conference acceptance is claimed."
+    }
+  ],
+  "unresolved": []
+}

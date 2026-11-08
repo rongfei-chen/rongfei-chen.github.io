@@ -24,33 +24,43 @@ My research investigates how embodied agents can understand human emotions and s
 Multimodal psychological health assessment: developing multimodal frameworks for the early detection and assessment of affective disorders (e.g., depression) through the analysis of verbal and nonverbal behavioral signals;
 Embodied navigation in social environments: integrating visual, auditory, and environmental semantic information to equip intelligent agents with socially aware navigation capabilities in human-centered scenarios;
 Natural human–computer interaction: designing adaptive human behavior understanding and response systems with capabilities for proactive perception, empathetic interaction, and contextual adaptation.
-To date, I have published 4 papers (<a href='https://scholar.google.com/citations?user=44dSBKUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) at top-tier AI conferences and journals (e.g., ICME, TCSVT, KBS, and ESWA).
+See my [Google Scholar profile](https://scholar.google.com/citations?user=44dSBKUAAAAJ) for publications, preprints, and citation information.
 
+<span class="anchor" id="news"></span>
+# Research Updates
 
+- Recent work on domain-specific attribute constraints in multimodal sentiment analysis: [paper](https://doi.org/10.1016/j.eswa.2026.132658) · [code](https://github.com/rongfei-chen/DSAC-EmoLLM-MSA).
+- Fair multimodal sentiment analysis: [LGCDF](https://doi.org/10.3390/app16062952) · [code](https://github.com/rongfei-chen/LGCDF).
+- Missing-modality research: [Evaluation Before Generation (ICME 2026, accepted)](https://arxiv.org/abs/2604.05558) · [code](https://github.com/rongfei-chen/ProMMA).
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Our paper on domain-specific domain-attribute constrained analysis in multimodal affective computing has been accepted for publication in Expert Systems with Applications.. 
-- *2022.02*: &nbsp;🎉🎉 Our paper on multimodal sentiment analysis with missing-modality has been accepted for publication in the proceedings of ICME 2026.
-- 2026.03:  🎉🎉 Our paper on multimodal sentiment analysis has been accepted for publication in the proceedings of ICIC 2026.
-- 2026.03:  🎉🎉 Our research paper on fairness and bias associated with sensitive attributes in multimodal sentiment analysis has been accepted for publication in Applied Sciences.
-- 2024.08:  🎉🎉 Our research paper on mutlimodal infomation fusion in multimodal sentiment analysis has been accepted for publication in Knowledge-based Systems.
-- 2022.08:  🎉🎉 Our research paper has been accepted for publication in IEEE Transactions on Circuits and Systems for Video Technology.
+<span class="anchor" id="publications"></span>
+# Publications and Preprints
 
-# 📝 Publications 
+The list below follows my [Google Scholar profile](https://scholar.google.com/citations?user=44dSBKUAAAAJ), checked on 8 November 2026. DOI links are provided where verified. Accepted conference papers and preprints are listed separately from published journal and conference entries. Author-confirmed updates were incorporated on 8 November 2026; alternate LLaSO titles are grouped as versions of one work.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA</div><img src='/images/ESWA2026.png' alt="ESWA2026" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Understanding Domain-Specific Attribute Constraints in Multimodal Sentiment Analysis via Ensemble Multimodal Large Language Models with Structured Multistage Prompts](https://www.sciencedirect.com/science/article/pii/S095741742601571X)
-
-**Rongfei Chen**, Junlong Tong, Xinming Zhang, Tingting Zhang, Xiaoyu Shen, Wei Zhang
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=44dSBKUAAAAJ&citation_for_view=44dSBKUAAAAJ:_FxGoFyzp5QC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Domain-Specific Atrribute Constraints in Multimodal Affective Computing.
+{% assign publication_groups = "publication,accepted,preprint" | split: "," %}
+{% for category in publication_groups %}
+{% if category == "publication" %}
+## Journal and Conference Articles
+{% elsif category == "accepted" %}
+## Accepted Conference Paper
+{% elsif category == "preprint" %}
+## Preprints
+{% else %}
+## Additional Manuscript
+{% endif %}
+{% assign papers = site.data.publications.items | where: "category", category %}
+{% for paper in papers %}
+<div class="publication-entry" style="margin: 0 0 1.5em 0;">
+  <p style="margin-bottom: .25em;"><strong><a href="{{ paper.primary_url | escape }}">{{ paper.title | escape }}</a></strong></p>
+  <p style="margin: .25em 0;">{{ paper.authors | escape }}</p>
+  <p style="margin: .25em 0;">{{ paper.venue | escape }}</p>
+  {% if paper.alternate_title %}<p style="margin: .25em 0; font-size: .9em; color: #667085;">Alternate version title: <a href="{{ paper.alternate_scholar_url | escape }}">{{ paper.alternate_title | escape }}</a>.</p>{% endif %}
+  {% if paper.year_note %}<p style="margin: .25em 0; font-size: .9em; color: #667085;">{{ paper.year_note | escape }}</p>{% endif %}
+  <p style="margin: .25em 0;"><a href="{{ paper.scholar_url | escape }}">Google Scholar record</a>{% if paper.doi %} · <a href="https://doi.org/{{ paper.doi | escape }}">DOI</a>{% endif %}{% if paper.code_url %} · <a href="{{ paper.code_url | escape }}">Code</a>{% endif %}</p>
 </div>
-</div>
-
-- Evaluation Before Generation: A Paradigm for Robust Multimodal Sentiment Analysis with Missing Modalities [[PDF]](https://arxiv.org/pdf/2604.05558) [[CODE]](https://github.com/rongfei-chen/ProMMA), Rongfei Chen, Tingting Zhang, Xiaoyu Shen, Wei Zhang, **ICME 2026**
+{% endfor %}
+{% endfor %}
 
 # 🎖 Honors and Awards
 - No
@@ -58,5 +68,4 @@ To date, I have published 4 papers (<a href='https://scholar.google.com/citation
 
 # 📖 Educations and Employment
 - *2024.09 - 2026.09 (now)*, Working as a postdoctoral researcher at CIST, EIT. 
-- *2020.09 - 2024.06*, PhD, Shanghai University. 
-
+- *2020.09 - 2024.06*, PhD, Shanghai University.
